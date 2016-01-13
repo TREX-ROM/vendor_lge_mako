@@ -32,7 +32,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/mako-mm/proprietary/system/bin/mpdecision:system/bin/mpdecision \
     vendor/lge/mako-mm/proprietary/system/bin/netmgrd:system/bin/netmgrd \
     vendor/lge/mako-mm/proprietary/system/bin/nl_listener:system/bin/nl_listener \
-    vendor/lge/mmako-mm/proprietary/system/bin/port-bridge:system/bin/port-bridge \
+    vendor/lge/mako-mm/proprietary/system/bin/port-bridge:system/bin/port-bridge \
     vendor/lge/mako-mm/proprietary/system/bin/qcks:system/bin/qcks \
     vendor/lge/mako-mm/proprietary/system/bin/qmuxd:system/bin/qmuxd \
     vendor/lge/mako-mm/proprietary/system/bin/qseecomd:system/bin/qseecomd \
